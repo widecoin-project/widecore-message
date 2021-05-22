@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "widecore-message",
+  "main": "./widecore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/widecoin-project/widecore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Widecoin Message Verification and Signing for Widecore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "widecoin",
+    "widecore",
+    "wcn",
     "satoshi",
     "message",
     "signing"
